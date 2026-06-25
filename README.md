@@ -161,6 +161,12 @@ The system provides reporting functionalities for:
 University-Hostel-Management-System/
 │
 ├── HostelManagementDB.accdb
+├── docs/
+│   ├── business-rules.md
+│   ├── data-dictionary.md
+│   ├── database-tables.md
+│   ├── relational-schema.md
+│   └── erd-diagram.png
 └── README.md
 ```
 
